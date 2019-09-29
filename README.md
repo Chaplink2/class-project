@@ -81,7 +81,7 @@ When you are satisfied with your update, submit a `Pull request` to merge the `u
 
 Submit your final report by creating a new branch named `report` and submit a `Pull Request` to merge with `master`.
 
-### Assignment (Part 4)
+## Assignment (Part 4)
 ### Lightning Talk
 ### Scheduled the week of October 28-30, 2019
 
