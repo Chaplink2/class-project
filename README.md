@@ -1,5 +1,5 @@
 # Assignment: GIST 604B Class Project
-## Worth: 150 points
+## Worth: 100 points
 
 ## Background
 This class gives you the opportunity to explore a number of different open source GIS programs but only at a rudimentary level. Additionally, the assignments are largely cookie-cutter labs aimed to give you exposure to what exists rather than requesting you master specific tools or techniques. Given also that you have unique talents and interests, the class project gives you the opportunity to take a problem that the class does not address or for you to explore an open source GIS software project that the class does not address and conduct a geospatial analysis of your choice. You can use your own data, software, and methods.
@@ -26,7 +26,9 @@ Your project should address one or more issues from the following list using ope
 - Watershed analysis
 
 ### Scope of project
-The scope of this project is left somewhat nebulous. If you are working with software we have used in this class, the work should be a significant extension beyond what is addressed in the class. On the other hand, if you are working with software not addressed in this class (e.g., Leaflet.js, Fusion, MapServer, MySQL Spatial, uDig), then the project is not expected to be as complex. The general idea is that the project should have roughly the same complexity as one of the 50+ point assignments in this class. The project will be worth more points, however, because there will be 1) a proposal, 2) a progress report, 3) a final report, and 4) a 3-minute lightning talk presentation. 
+The scope of this project is left somewhat nebulous. If you are working with software we have used in this class, the work should be a significant extension beyond what is addressed in the class. Notably, I prefer the project not to be focused on work similar to what we've done so far. On the other hand, if you are working with software not addressed in this class (e.g., Leaflet.js, Fusion, MapServer, MySQL Spatial, uDig), then the project is not expected to be as complex. The general idea is that the project should have roughly the same complexity as one of the 40+ point assignments in this class. 
+
+The project will be worth more points, however, because there will be 1) a proposal, 2) a progress report, 3) a final report, and 4) a 3-minute lightning talk presentation (video). 
 
 ### Examples
 - Perform watershed analysis in QGIS
@@ -43,10 +45,10 @@ The scope of this project is left somewhat nebulous. If you are working with sof
 
 ### Process
 This assignment is broken into 4 parts:
-1) Project Proposal (Week 2) - 40 pts
-2) Status Update (Week 3) - 40 pts
-3) Final Report (Week 4) - 40 pts
-4) Lightning Talk (Week 5) - 30 pts
+1) Project Proposal (Week 2) - 25 pts
+2) Status Update (Week 3) - 25 pts
+3) Final Report (Week 4) - 25 pts
+4) Lightning Talk (Week 5) - 25 pts
 
 ## Assignment (Part 1) 
 ### Project Proposal
@@ -61,7 +63,7 @@ Submit a project proposal detailing:
  ii. Software to be used
  iii. General approach (e.g., algorithms, techniques, tools)
 
-I will work with you to refine your proposal and, once it is accepted, I will tell you what will be expected for your final report based on what is appropriate for your project. If the project requires new software to be installed in the lab, be sure to get this assignment completed early to accomodate system admin schedules.
+I will work with you to refine your proposal.
  
 ## Assignment (Part 2)
 ### Project Status Update
@@ -73,10 +75,10 @@ In your update, describe your updated workflow, including any issues or dead-end
 ## Assignment (Part 3)
 ### Final Report
 
-The format of the final report may vary. Reports may be publication-style (Abstract-Background-Methods-Results-Discussion-Conclusion), they may be a Jupyter Notebook, etc, depending on the specific problem. 
+Please submit your final report as a MarkDown document as a Pull request to the Class Project assignment. The format of the final report may vary depending on your topic. If you need a template to follow, use: (Abstract-Background-Methods-Results-Discussion-Conclusion). 
 
 ## Assignment (Part 4)
 ### Lightning Talk
 
-Create a 3-minute video of a narrated slideshow or demo of your project. Be sure to describe the problem you are addressing, the software and data you are using, any lessons learned, and any future work that could follow where you left off.
+Create a 3-minute video of a narrated slideshow or demo of your project. Be sure to describe the problem you are addressing, the software and data you are using, any lessons learned, and any future work that could follow where you left off. Instructions for recording and posting videos will be shared on d2l.
 
