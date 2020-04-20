@@ -45,10 +45,10 @@ The project will be worth more points, however, because there will be 1) a propo
 
 ### Process
 This assignment is broken into 4 parts:
-1) Project Proposal (Week 2) - 25 pts
-2) Status Update (Week 3) - 25 pts
-3) Final Report (Week 4) - 25 pts
-4) Lightning Talk (Week 5) - 25 pts
+1) Project Proposal - 25 pts
+2) Status Update - 25 pts
+3) Final Report - 25 pts
+4) Lightning Talk - 25 pts
 
 ## Assignment (Part 1) 
 ### Project Proposal
