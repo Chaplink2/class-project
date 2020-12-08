@@ -1,5 +1,11 @@
 # Instructions for lightning talk:
 
+## Deliverable
+Create a new branch named `talk` and include a file named `talk.md` with the following. 
+```
+<url of your recording>
+```
+
 ## Record your talk using Panopto.
 
 Create a 3-minute presentation. The key is short and concise. Your report can have more detail if you want to share more, but please keep the presentation brief.
@@ -21,10 +27,3 @@ When you start your recording, choose options like this:
 
 To share your link, see this image:
 ![Panopto Link Sharing](panopto-link-sharing.png)
-
-
-## Create a new branch named `talk` and include a file named `talk.md` with the following:
-
-```
-url of your recording
-```
