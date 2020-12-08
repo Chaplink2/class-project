@@ -8,9 +8,6 @@ on:
   push:
     branches: [ proposal ]
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -31,6 +28,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: File exists
-        if: steps.check_files.outputs.files_exists == 'true'
+        if: steps.check_files.outputs.files_exists != 'true'
         # Only runs if all of the files exists
-        run: echo All files exists!
+        run: |
+          echo Required files are missing
+          exit 1
