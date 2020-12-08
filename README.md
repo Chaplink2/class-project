@@ -72,7 +72,7 @@ To turn in your project proposal, create a branch named `proposal` with the foll
 
 Within a week of acceptance of your project proposal you should have made significant progress on your project, including acquiring any data, installing any necessary software, pre-processing data, initial analysis, etc. Specifics will vary, of course, but you should aim to have a proof of concept completed.
 
-In your update, describe your updated workflow, including any issues or dead-ends you've encountered, the data you have worked with, its provenance, any data processing, analysis, maps or other interim products. Consider checking in any files, scripts, or screenshots in your branch, though try to be organized and be sure to reference the files in your `update.md` file. Be sure to describe any changes from the original proposal or what you anticipate to submit in your final report. Detailed instructions for the project update are given in [instructions/project_udpate.md](instructions/project_udpate.md).
+In your update, describe your updated workflow, including any issues or dead-ends you've encountered, the data you have worked with, its provenance, any data processing, analysis, maps or other interim products. Consider checking in any files, scripts, or screenshots in your branch, though try to be organized and be sure to reference the files in your `update.md` file. Be sure to describe any changes from the original proposal or what you anticipate to submit in your final report. Detailed instructions for the project update are given in [instructions/project_update.md](instructions/project_update.md).
 
 **Deliverable for Project Update:***
 To turn in your project update, create a branch named `update` with the following file: `update.md`. 
