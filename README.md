@@ -1,5 +1,4 @@
-# Assignment: GIST 604B Class Project
-## Worth: 100 points
+# Assignment: Open Source GIS Class Project
 
 ## Background
 This class gives you the opportunity to explore a number of different open source GIS programs but only at a rudimentary level. Additionally, the assignments are largely cookie-cutter labs aimed to give you exposure to what exists rather than requesting you master specific tools or techniques. Given also that you have unique talents and interests, the class project gives you the opportunity to take a problem that the class does not address or for you to explore an open source GIS software project that the class does not address and conduct a geospatial analysis of your choice. You can use your own data, software, and methods.
@@ -44,11 +43,11 @@ The project will be worth more points, however, because there will be 1) a propo
 - Canopy height and bare earth model of Summerhaven using LiDAR
 
 ### Process
-This assignment is broken into 4 parts:
-1) Project Proposal - 25 pts
-2) Status Update - 25 pts
-3) Final Report - 25 pts
-4) Lightning Talk - 25 pts
+This assignment is broken into four equally-weighted parts:
+1) Project Proposal
+2) Status Update
+3) Final Report
+4) Lightning Talk
 
 ## Assignment (Part 1) 
 ### Project Proposal
@@ -63,22 +62,33 @@ Submit a project proposal detailing:
  ii. Software to be used
  iii. General approach (e.g., algorithms, techniques, tools)
 
-I will work with you to refine your proposal.
+I will work with you to refine your proposal. Formatting and more detailed turn-in details are given in [instructions/project_proposal.md](instructions/project_proposal.md).
+
+**Deliverable for Project Proposal:***
+To turn in your project proposal, create a branch named `proposal` with the following file: `proposal.md`. That will be a "markdown" file ([markdown cheat-sheet](https://www.markdownguide.org/cheat-sheet/))
  
 ## Assignment (Part 2)
 ### Project Status Update
 
 Within a week of acceptance of your project proposal you should have made significant progress on your project, including acquiring any data, installing any necessary software, pre-processing data, initial analysis, etc. Specifics will vary, of course, but you should aim to have a proof of concept completed.
 
-In your update, describe your updated workflow, including any issues or dead-ends you've encountered, the data you have worked with, its provenance, any data processing, analysis, maps or other interim products. Consider checking in any files, scripts, or screenshots in your branch, though try to be organized and be sure to reference the files in your `update.md` file. Be sure to describe any changes from the original proposal or what you anticipate to submit in your final report. 
+In your update, describe your updated workflow, including any issues or dead-ends you've encountered, the data you have worked with, its provenance, any data processing, analysis, maps or other interim products. Consider checking in any files, scripts, or screenshots in your branch, though try to be organized and be sure to reference the files in your `update.md` file. Be sure to describe any changes from the original proposal or what you anticipate to submit in your final report. Detailed instructions for the project update are given in [instructions/project_udpate.md](instructions/project_udpate.md).
+
+**Deliverable for Project Update:***
+To turn in your project update, create a branch named `update` with the following file: `update.md`. 
 
 ## Assignment (Part 3)
 ### Final Report
 
-Please submit your final report as a MarkDown document as a Pull request to the Class Project assignment. The format of the final report may vary depending on your topic. If you need a template to follow, use: (Abstract-Background-Methods-Results-Discussion-Conclusion). 
+Please submit your final report as a MarkDown document as a Pull request to the Class Project assignment. The format of the final report may vary depending on your topic. If you need a template to follow, use: (Abstract-Background-Methods-Results-Discussion-Conclusion). Detailed instructions for the final project are given in [instructions/final_report.md](instructions/final_report.md).
+
+**Deliverable for Final Project:***
+To turn in your final project, create a branch named `report` with the following file: `report.md`.
 
 ## Assignment (Part 4)
 ### Lightning Talk
 
-Create a 3-minute video of a narrated slideshow or demo of your project. Be sure to describe the problem you are addressing, the software and data you are using, any lessons learned, and any future work that could follow where you left off. Instructions for recording and posting videos will be shared on d2l.
+Create a 3-minute video of a narrated slideshow or demo of your project. Be sure to describe the problem you are addressing, the software and data you are using, any lessons learned, and any future work that could follow where you left off. Instructions for recording and posting videos are detailed in [instructions/lightning_talk.md](instructions/lightning_talk.md).
 
+**Deliverable for Lightning Talk:***
+To turn in your lightning talk, create a branch named `talk` with the following file: `talk.md` which contains the URL of your talk.
