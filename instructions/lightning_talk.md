@@ -16,9 +16,12 @@ The format is up to you but the key point for this class is Methods. That said, 
 Use the D2l Panopto Link on the class webpage to Open Panopto (You will have to download it first). 
 [Background for using Panopto](https://help.d2l.arizona.edu/content/students-panopto)
 
-[!Panopto Link Sharing](panopto-link-sharing.png)
+When you start your recording, choose options like this:
+![Panopto Recording Settings](panopto-record-settings.png)
 
-[!Panopto Recording Settings](panopto-record-settings.png)
+To share your link, see this image:
+![Panopto Link Sharing](panopto-link-sharing.png)
+
 
 ## Create a new branch named `talk` and include a file named `talk.md` with the following:
 
