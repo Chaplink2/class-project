@@ -15,6 +15,6 @@ Updates
   ii. on software
   iii. on methods
 ```
-Use [markdown](https://www.markdownguide.org/cheat-sheet/) to format your proposal.
+Use [markdown](https://www.markdownguide.org/cheat-sheet/) to format your project update.
 
-Create a new `Pull Request` with your `update` branch to be merged with master to indicate the proposal is ready for evaluation.
+Create a new `Pull Request` with your `update` branch to be merged with master to indicate the project update is ready for evaluation.
